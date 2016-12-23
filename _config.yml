@@ -5,3 +5,4 @@ author:
 description: "Musings at the intersection of mathematics and biology"
 tagline: "Musings at the intersection of mathematics and biology"
 production_url : http://numbersof.life
+permalink: /:year/:month/:day/:title”
